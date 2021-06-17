@@ -15,7 +15,9 @@ Skills: Machine Learning, Data Science, Python
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zohairahmed007)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zohairahmed007&show_icons=true)  
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=default)
 ![GitHub metrics](https://metrics.lecoq.io/zohairahmed007)  
 
 ![Profile views](https://gpvc.arturio.dev/zohairahmed007)  
