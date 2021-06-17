@@ -6,8 +6,6 @@
 <h1> Hello Community <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
 <p align='center'>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=zohairahmed007.zohairahmed007)
-
 </p>
 <div size='20px'> Hi! My name is Zohair. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
@@ -60,4 +58,8 @@
 
 
 <br>
-<footer align='center'>README made with help of <a href='https://github.com/rahulbanerjee26/githubProfileReadmeGenerator'>githubProfileReadmeGenerator</a> </footer>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=zohairahmed007&&style=flat-square" align="center" />
+</div>  
+  
