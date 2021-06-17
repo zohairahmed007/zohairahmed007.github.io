@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="100%" height = "450px" src="https://zohairahmed007.github.io/static/images/zohair-banner.jpg" alt="cover" />
+<img width="100%"  src="https://zohairahmed007.github.io/static/images/zohair-banner.jpg" alt="cover" />
 </div>
 
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
@@ -16,11 +16,10 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on I am a Masters in Computer Science and now Ph.D. Scholar in Computer Science in Changsha, China. I have more than 5 Year of Professional Experience in Web Design & Development (HTML, CSS, Bootstrap, Asp Net, Wordpress). Also, I'm a specialist in Video Editing and Graphic Design.
+- 🔭 I am a Ph.D. candidate in Computer Science in Changsha, China. I have done it Masters/MPhil and Bachelor in Computer Science. My Research field is NLP, Data Mining, Machine Learning. I have more than 5 Years of Professional Experience in Web Design & Development (HTML, CSS, Bootstrap, Asp Net, Word press). Also, I'm a specialist in Video Editing and Graphic Design.
 
 
-
-- 🌱 I’m currently learning Deep Learning  
+- 🌱 I’m currently working on Machine Learning, Deep Learning  
 
 - 👯 I’m looking to collaborate on Projects,Tech Articles 
 
