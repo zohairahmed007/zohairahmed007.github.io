@@ -1,0 +1,208 @@
+@media (min-width: 275px) and (max-width: 767px){
+#banner .banner-text {
+    margin-top: 60px;
+}
+
+.people-like .list-group {
+    font-size: 16px;
+}
+
+#work-experience .carousel-indicators > li, 
+#education-carousel .carousel-indicators > li {
+    width: 27%;
+    padding: 14px 5px;
+    font-size: 15px;
+}
+
+#work-experience .carousel-indicators, 
+#education-carousel .carousel-indicators {
+    left: 9%;
+}
+
+#testimonial-carousel .carousel-indicators li {
+    width: 25px;
+    height: 35px;
+    margin: 5px;
+}
+
+#testimonial-carousel .carousel-indicators .active {
+    width: 42px;
+    height: 42px;
+}
+
+#testimonial-carousel .carousel-indicators {
+    bottom: -28%;
+}
+
+.price-content {
+    margin-bottom: 30px;
+}
+
+.price-content .price-head h3 {
+    font-size: 22px;
+}
+
+}/*end of max-width: 767px*/
+
+
+@media (min-width: 275px) and (max-width: 320px){
+.percent {
+    left: 81%;
+}
+
+}/*end of max-width: 320px*/
+
+
+@media (min-width: 321px) and (max-width: 480px){
+.percent {
+    left: 87.5%;
+}
+
+}/*end of max-width: 640px*/
+
+
+@media (min-width: 481px) and (max-width: 640px){
+.percent {
+    left: 90.5%;
+}
+
+}/*end of max-width: 640px*/
+
+
+@media (min-width: 768px) and (max-width: 991px){
+/*.nav > li > a {
+    padding: 20px 13px;
+    font-size: 16px;
+}
+*/
+#banner .banner-text {
+    margin-top: 40px;
+}
+
+#banner .banner-text h2 {
+    font-size: 35px;
+    margin: 10px 0px 20px;
+}
+
+#banner .banner-text h4 {
+    font-size: 22px;
+}
+
+#banner .scroll-down {
+    margin: 65px auto;
+}
+
+#menu .navbar-default .navbar-nav > li > a {
+    font-size: 15px;
+    padding: 20px 8px;
+}
+
+.percent {
+    left: 86.6%;
+}
+
+.people-like h3 {
+    font-size: 18px;
+}
+
+.people-like .list-group {
+    font-size: 15px;
+}
+
+.resume-text p {
+    margin-top: 0px;
+    font-size: 13px;
+}
+
+#work-experience .carousel-indicators > li, 
+#education-carousel .carousel-indicators > li{
+    width: 23%;
+    font-size: 18px;
+}
+
+#work-experience .carousel-indicators, 
+#education-carousel .carousel-indicators {
+    left: 16%;
+}
+
+.counter-up-content i {
+    font-size: 50px;
+}
+
+.counter-up-content .list-inline span {
+    font-size: 30px;
+}
+
+.counter-up-content h3 {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+.price-content .price-head h3 {
+    font-size: 18px;
+}
+
+.recent-post-text h3 {
+    margin-bottom: 8px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}/*end of max-width: 991px*/
+
+
+@media (min-width: 992px) and (max-width: 1199px){
+#banner .banner-text {
+    margin-top: 70px;
+}
+
+#banner .scroll-down {
+    margin: 85px auto;
+}
+
+#menu .navbar-default .navbar-nav > li > a {
+    font-size: 17px;
+    padding: 25px 15px;
+}
+
+.percent {
+    left: 89.5%;
+}
+
+.people-like h3 {
+    font-size: 18px;
+}
+
+.people-like .list-group {
+    font-size: 16px;
+}
+
+#work-experience .carousel-inner,
+#education-carousel .carousel-inner {
+    height: 215px;
+}
+
+.resume-text p {
+    margin-top: 0px;
+}
+
+
+}/*end of max-width: 1199px*/
+
+
+@media (min-width: 1200px) and (max-width: 1920px){
+
+}
